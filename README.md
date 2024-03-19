@@ -17,7 +17,7 @@
 
 ### 1. Which UI Libraries are allowed to use?
 
-We prefer you to use Tailwind CSS only. But, if you don't have enough experience with Tailwind you can use Material UI, Ant Design or Bootstrap (Get approval from HR first).
+We prefer you to use Tailwind CSS only.
 
 ### 2. Which TMDB APIs need to be integrated?
 
@@ -48,3 +48,7 @@ While not mandatory due to the absence of mobile design requirements, incorporat
 ### 7. What standards should I adhere to?
 
 Feel free to adopt any industry-standard folder structure or libraries that align with best practices.
+
+### 8. What will be considered a plus point?
+
+Using the latest features of the Nextjs 13/14 (Server Functions, Suspense, Lazy, Error Boundries, Caching).
