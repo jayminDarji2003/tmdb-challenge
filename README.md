@@ -17,7 +17,7 @@
 
 ### 1. Which UI Libraries are allowed to use?
 
-We prefer you to use Tailwind CSS only.
+We prefer you to use Tailwind CSS and Nextjs 14 only.
 
 ### 2. Which TMDB APIs need to be integrated?
 
